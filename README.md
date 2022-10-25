@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Justin Rivera 👋
 
+I'm a full stack web developer from Tampa
 
 - 🔭 I’m currently working on a revamped website for @photobooth.plus. I'm working on the project myself but I'm excited to see the growth of it!
 - 🌱 I’m currently learning Vue and typescript. I'm realizing that these have been a reoccuring language that I should be growing in.
