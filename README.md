@@ -1,11 +1,18 @@
 ### Hi there, I'm Justin Rivera 👋
 
-I'm a full-stack web developer from Tampa.
+Full-stack TypeScript developer building complete systems from database to deployment.
 
-- 🔭 I have successfully created WordPress websites.
-- 🌱 I excel at creating projects with React.
-- 🤔 I’m seeking help getting a career within the tech industry.
-- 💬 Ask me about how I got into the tech world! It's an exciting story, and I'd love to learn about your journey!
-- 📫 How to reach me: justinrivera47@gmail.com
-- ⚡ Fun fact: I love to read personal development books! Soft skills are essential to develop.
+**What I build:**
+- 🏗️ Full-stack web applications with React/Next.js + Node.js/PostgreSQL
+- 💳 Payment integrations and subscription systems (Stripe)
+- 🤖 AI-powered applications with OpenAI API
+- 📧 Automated workflows with Mailchimp, AWS, and Google Apps Script
+- 🎨 Production SaaS products deployed on Vercel
 
+**Current stack:** TypeScript, React 19, Next.js 14, Node.js, Express, PostgreSQL, Supabase, Tailwind CSS
+
+**Portfolio:** [justinrivera.tech](https://justinrivera.tech)
+
+📫 **Reach me:** justinrivera47@gmail.com | Tampa, FL
+
+⚡ **Background:** Army Reserve veteran (8 years) turned developer. I build systems that eliminate repetitive work.
